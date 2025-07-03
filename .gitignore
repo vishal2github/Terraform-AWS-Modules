@@ -1,0 +1,12 @@
+# Terraform state files
+terraform.tfstate
+terraform.tfstate.backup
+
+# Terraform working directory
+.terraform/
+
+# Lock file (optional, can be included if desired for reproducibility)
+.terraform.lock.hcl
+
+# Sensitive files (optional, if terraform.tfvars contains secrets)
+terraform.tfvars
