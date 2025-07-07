@@ -1,0 +1,5 @@
+region     = "<ENTER THE REGION CODE>"
+access_key = "<ENTER THE ACCESS KEY>"         
+secret_key = "<ENTER THE SECRET KEY>"
+ami_id     = "<ENTER AN AMI ID>"
+key_name   = "<ENTER THE INSTANCE KEY>"
