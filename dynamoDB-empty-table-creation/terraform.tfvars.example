@@ -1,0 +1,4 @@
+table_name     = <ENTER TABLE NAME>
+hash_key       = <ENTER PARTITION ID NAME>
+read_capacity  = <ENTER READ CAPACITY>
+write_capacity = <ENTER WRITE CAPACITY>
